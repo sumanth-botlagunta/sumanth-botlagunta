@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumanth-botlagunta&label=Profile%20views&color=0e75b6&style=flat" alt="sumanth-botlagunta" /> </p>
 
-- 🔭 I’m currently working with **edureka intership**
+- 🔭 I’m currently working with **edureka internship**
 
 - 📫 How to reach me **sumanthbotlagunta977@gmail.com**
 
