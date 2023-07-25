@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sumanth botlagunta</h1>
-<h3 align="center">A final-year engineering student and learning web developer</h3>
+<h3 align="center">Developer 🧑‍💻</h3>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sumanth-botlagunta&icon=3&color=12)](https://visitcount.itsvg.in)
