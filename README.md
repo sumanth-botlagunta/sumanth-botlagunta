@@ -1,24 +1,48 @@
-<h1 align="center">Hi 👋, I'm sumanth botlagunta</h1>
-<h3 align="center">Developer 🧑‍💻</h3>
+# Hi there, I'm Sumanth! 👋
 
----
-[![](https://visitcount.itsvg.in/api?id=sumanth-botlagunta&icon=3&color=12)](https://visitcount.itsvg.in)
+I'm a passionate software developer with a strong foundation in web development, front-end technologies, and computer science fundamentals. I'm excited to contribute to meaningful projects and continue learning in the ever-evolving tech landscape.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sumanth-botlagunta&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🔭 What I'm Currently Working On
 
+- Exploring advanced features of Next.js to build dynamic and performant web applications.
+- Enhancing my proficiency in TypeScript for type-safe and efficient code.
+- Building projects to apply and expand my knowledge of React and Node.js.
+- Solving coding challenges to sharpen my problem-solving skills and algorithms expertise.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/s_u__m__a__n__t___h) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumanth-botlagunta) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/sumanth-botlagunta) 
+## 🌱 What I'm Learning
 
-## 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+- Deepening my understanding of software design patterns and architecture.
+- Exploring server-side rendering (SSR) and its benefits in modern web development.
+- Diving into data visualization libraries and techniques to create insightful UIs.
+- Keeping up with the latest trends and best practices in the tech industry.
 
-## 📊 GitHub Stats:
- ![](https://github-readme-streak-stats.herokuapp.com/?user=sumanth-botlagunta&theme=dark&hide_border=true)<br/> 
+## 💬 Let's Connect
 
+- LinkedIn: [Sumanth's LinkedIn](https://www.linkedin.com/in/sumanth-botlagunta/)
 
+## 📫 How to Reach Me
 
+- Email: sumanthbotlagunta977@gmail.com
+- Feel free to drop me a message if you're interested in collaboration or just want to chat!
 
+## 🚀 My Repositories
+
+Here are some of the projects I've worked on:
+
+1. [Ecommerce Store](https://github.com/sumanth-botlagunta/ecommerce-store) and [Ecommerce Admin](https://github.com/sumanth-botlagunta/ecommerce-admin-dashboard)
+2. [Shirt Design](https://github.com/sumanth-botlagunta/meta-3d-shirt-design)
+3. [Prompt Sharing App](https://github.com/sumanth-botlagunta/AI-prompt-sharing-web-app)
+
+Feel free to explore my repositories for more insights into my work.
+
+## 📚 My Tech Stack
+
+- Front-end: React, Next.js, JavaScript, TypeScript, HTML, CSS
+- Back-end: Node.js, Express.js, Prisma
+- Languages: Python, C++
+- Data Structures and Algorithms enthusiast
+
+  ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/sumanth-botlagunta/sumanth-botlagunta/assets/86908741/f990883b-7347-44f2-add0-94d8c838795b)
+
+Let's connect, collaborate, and create amazing software together!
 
