@@ -11,7 +11,7 @@ I'm a passionate software developer with a strong foundation in web development,
 
 ### 🌱 What I'm Learning
 
-- Deepening my understanding of softwarefont-family: 'Roboto', sans-serif; design patterns and architecture.
+- Deepening my understanding of software design patterns and architecture.
 - Exploring server-side rendering (SSR) and its benefits in modern web development.
 - Diving into data visualization libraries and techniques to create insightful UIs.
 - Keeping up with the latest trends and best practices in the tech industry.
