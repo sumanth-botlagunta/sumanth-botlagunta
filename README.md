@@ -29,9 +29,10 @@ I'm a passionate software developer with a strong foundation in web development,
 
 Here are some of the projects I've worked on:
 
-1. [Ecommerce Store](https://github.com/sumanth-botlagunta/ecommerce-store) and [Ecommerce Admin](https://github.com/sumanth-botlagunta/ecommerce-admin-dashboard)
-2. [Shirt Design](https://github.com/sumanth-botlagunta/meta-3d-shirt-design)
-3. [Prompt Sharing App](https://github.com/sumanth-botlagunta/AI-prompt-sharing-web-app)
+1. [StackOverflow Website](https://github.com/sumanth-botlagunta/stack_overflow_next13)
+2. [Ecommerce Store](https://github.com/sumanth-botlagunta/ecommerce-store) and [Ecommerce Admin](https://github.com/sumanth-botlagunta/ecommerce-admin-dashboard)
+3. [Shirt Design](https://github.com/sumanth-botlagunta/meta-3d-shirt-design)
+4. [Prompt Sharing App](https://github.com/sumanth-botlagunta/AI-prompt-sharing-web-app)
 
 Feel free to explore my repositories for more insights into my work.
 
@@ -39,7 +40,7 @@ Feel free to explore my repositories for more insights into my work.
 
 - **Data Structures and Algorithms**
 - Languages: **Python, C++**
-- Front-end: **React, Next.js, JavaScript, TypeScript, HTML, CSS**
+- Front-end: **React, Next.js, JavaScript, TypeScript, HTML, CSS, TailwindCSS**
 - Back-end: **Node.js, Express.js, Prisma**
 - Database: **MongoDB**
 
