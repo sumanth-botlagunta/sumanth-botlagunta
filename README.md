@@ -1,6 +1,6 @@
 <h1 align='center'> Hi there, I'm Sumanth! 👋</h1>
 
-I'm a passionate software developer with a strong foundation in web development, front-end technologies, and computer science fundamentals. I'm excited to contribute to meaningful projects and continue learning in the ever-evolving tech landscape.
+I am a skilled software developer with a strong foundation in web development, front-end technologies, and computer science fundamentals. I am eager to contribute to meaningful projects and continue learning in the ever-evolving tech landscape.
 
 ### 🔭 What I'm Currently Working On
 
@@ -31,20 +31,17 @@ Here are some of the projects I've worked on:
 
 1. [StackOverflow Website](https://github.com/sumanth-botlagunta/stack_overflow_next13)
 2. [Ecommerce Store](https://github.com/sumanth-botlagunta/ecommerce-store) and [Ecommerce Admin](https://github.com/sumanth-botlagunta/ecommerce-admin-dashboard)
-3. [Shirt Design](https://github.com/sumanth-botlagunta/meta-3d-shirt-design)
-4. [Prompt Sharing App](https://github.com/sumanth-botlagunta/AI-prompt-sharing-web-app)
+3. [Memory card game](https://exquisite-otter-a6fee5.netlify.app/)
 
-Feel free to explore my repositories for more insights into my work.
 
 ### 📚 My Tech Skills
 
 - **Data Structures and Algorithms**
-- Languages: **Python, C++**
+- Languages: **C++, Python**
 - Front-end: **React, Next.js, JavaScript, TypeScript, HTML, CSS, TailwindCSS**
-- Back-end: **Node.js, Express.js, Prisma**
-- Database: **MongoDB**
+- Back-end: **Node.js, Express.js**
+- Database: **MongoDB, SQL**
 
   ![Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner](https://github.com/sumanth-botlagunta/sumanth-botlagunta/assets/86908741/f990883b-7347-44f2-add0-94d8c838795b)
 
-Let's connect, collaborate, and create amazing software together!
 
